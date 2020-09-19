@@ -17,7 +17,7 @@ We were asked to update our second homework which included an Index page, a Port
 
 ### Website
 
-[My Portfolio](https://sirog-e.github.io/Evelyn-my-responsive-portfolio/)
+[My Portfolio](https://sirog-e.github.io/Portfolio_Evelyn_Goris/)
 
 
 
@@ -43,4 +43,6 @@ The requirements included:
 
 When compared to the original, it looks pretty similar to the one provided. Links navigate to the locations they are supposed to. I had trouble adding the background picture. It worked from the beginning, but somehow it broke later. Same thing happened with the sticky footer. For this homework, I tried adding more comments. 
 
-My Website: <br> https://sirog-e.github.io/Evelyn-my-responsive-portfolio/
+My Website: <br> https://sirog-e.github.io/Portfolio_Evelyn_Goris/
+<br>
+https://github.com/SIROG-E/Portfolio_Evelyn_Goris
