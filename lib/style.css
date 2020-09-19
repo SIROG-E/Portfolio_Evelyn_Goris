@@ -51,10 +51,21 @@ html {
     
     /* Github */
     .fa-github {
-      background: white;
+      background: #ffffff3a;
       color: black;
     }
-  
+
+    /* submit button */
+    /* .btn-primary {
+        background-color: #555555;
+    }
+
+    .btn-primary:hover {
+        background-color:#242424;
+        color:  #555555;
+        border: 2px solid #555555;
+
+      } */
   /* Footer */
   .footer {
     position: absolute;
